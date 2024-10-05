@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    background-color: skyblue;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+}
