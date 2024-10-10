@@ -60,5 +60,8 @@ a:hover {
     position: absolute;
     top: 155px;
     right: 115px;
+}
 
+.flag {
+    cursor: pointer;
 }
